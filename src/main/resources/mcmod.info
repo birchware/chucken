@@ -1,0 +1,17 @@
+[
+{
+  "modid": "chucken",
+  "name": "Chucken",
+  "description": "Chunk Loader.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Birch"],
+  "credits": "I hate Java so much.",
+  "logoFile": "assets/chucken/logo.png",
+  "screenshots": [],
+  "parent": "",
+  "dependencies": []
+}
+]

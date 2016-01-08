@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "chucken:blocks/block_chuck",
+    "down": "chucken:blocks/block_chuck",
+    "north": "chucken:blocks/block_chuck",
+    "east": "chucken:blocks/block_chuck",
+    "south": "chucken:blocks/block_chuck",
+    "west": "chucken:blocks/block_chuck",
+    "particle": "blocks/lapis_block"
+  }
+}
